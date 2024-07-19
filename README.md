@@ -8,8 +8,11 @@ The decision is made as follows. The main metrics are calculated for a period of
 Next, based on the metrics, a decision is made which of the 4 categories the analyzed company belongs to.
 
 A) Successful company (growing) -> worth adding to your portfolio
+
 B) Just a profitable company (good) -> worth adding to your portfolio
+
 C) Unsustainable (pre-crisis) -> not worth adding to your portfolio
+
 E) Unprofitable (crisis) -> not worth adding to the portfolio
 
 Additionally, data on annual and quarterly reports is saved for further analysis, building reports to track trends.
