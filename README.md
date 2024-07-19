@@ -17,6 +17,4 @@ E) Unprofitable (crisis) -> not worth adding to the portfolio
 
 Additionally, data on annual and quarterly reports is saved for further analysis, building reports to track trends.
 
-$E = mc^2$.
-
 
